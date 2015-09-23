@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Poc.Search", "src\Sitecore.Poc.Search\Sitecore.Poc.Search.csproj", "{2383CCCE-F90D-40DF-8197-0A4CA9E39090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Poc.EntityService", "src\Sitecore.Poc.EntityService\Sitecore.Poc.EntityService.csproj", "{AA8272AC-1824-41C1-85C5-F0569768BD1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Poc.CustomEntityService", "src\Sitecore.Poc.CustomEntityService\Sitecore.Poc.CustomEntityService.csproj", "{AA8272AC-1824-41C1-85C5-F0569768BD1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
